@@ -52,10 +52,6 @@ title = "my projects"
 title = "other links"
 
   [[entries.entries]]
-  title = "Gallery"
-  url = "https://gallery.fixin.dev/"
-
-  [[entries.entries]]
   title = "SoundCloud"
   url = "https://soundcloud.com/furkan-529265297"
 
