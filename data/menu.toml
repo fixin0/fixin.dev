@@ -35,6 +35,12 @@ title = "experience"
 title = "my projects"
 
   [[entries.entries]]
+  title = "Fix2Engine"
+  url = "https://github.com/fixin0/Fix2Engine"
+  [[entries.entries.entries]]
+  title = "Fix2Engine is a modular, code-first game engine built with C# and .NET. It is designed to offer full control over engine logic while keeping core systems separate, lightweight, and easy to maintain."
+
+  [[entries.entries]]
   title = "Aramis | ÜNOG"
   url = "https://github.com/unoghub/app-aramis"
 
