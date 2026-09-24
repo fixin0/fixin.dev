@@ -10,7 +10,7 @@ title = "about"
 
   [[entries.entries]]
   title = "LinkedIn"
-  url = "https://www.linkedin.com/in/furkan-a-4b33b7323/"
+  url = "https://www.linkedin.com/in/furkanakafixin/"
 
   [[entries.entries]]
   title = "Instagram"
@@ -46,6 +46,12 @@ title = "my projects"
 
   [[entries.entries.entries]]
   title = "Self-hosted infrastructure with Cloudflare Tunnel, Nginx reverse proxy, and Docker Compose."
+
+  [[entries.entries]]
+  title = "Yanki"
+  url = "https://github.com/ODAXR/com.odaxr.yankixr"
+  [[entries.entries.entries]]
+  title = "Baked obstacle-based audio occlusion with grid generation, acoustic materials, and scene previews."
 
   [[entries.entries]]
   title = "Quake-like FPS Controller for Unity"
