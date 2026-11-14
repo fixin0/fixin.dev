@@ -16,13 +16,13 @@ title = "about"
 title = "experience"
 
  [[entries.entries]]
- title = "Software Developer, Games at The Universe Platform | 05.26-08.26"
+ title = "Software Developer, Games | The Universe Platform | 05.26-08.26"
  url = "https://theuniverse.now/"
   [[entries.entries.entries]]
   title = "Developed multiplayer party and arcade games utilizing Universe Platform's proprietary, in-house game engine."
 
  [[entries.entries]]
- title = "Software Developer Intern, Games at The Universe Platform | 01.25-04.25"
+ title = "Software Developer Intern, Games | The Universe Platform | 01.25-04.25"
  url = "https://theuniverse.now/"
   [[entries.entries.entries]]
   title = "Learned and utilized the UniScript language (similar to C#) for game development. Designed and developed game prototypes to demonstrate core gameplay mechanics."
