@@ -12,10 +12,6 @@ title = "about"
   title = "LinkedIn"
   url = "https://www.linkedin.com/in/furkanakafixin/"
 
-  [[entries.entries]]
-  title = "Instagram"
-  url = "https://www.instagram.com/furkanakafixin"
-
 [[entries]]
 title = "experience"
 
@@ -41,15 +37,8 @@ title = "my projects"
   title = "Fix2Engine is a modular, code-first game engine built with C# and .NET. It is designed to offer full control over engine logic while keeping core systems separate, lightweight, and easy to maintain."
 
   [[entries.entries]]
-  title = "Aramis | ÜNOG"
-  url = "https://github.com/unoghub/app-aramis"
-
-  [[entries.entries.entries]]
-  title = "Self-hosted infrastructure with Cloudflare Tunnel, Nginx reverse proxy, and Docker Compose."
-
-  [[entries.entries]]
   title = "Yanki"
-  url = "https://github.com/ODAXR/com.odaxr.yankixr"
+  url = "https://github.com/fixin0/com.odaxr.yankixr"
   [[entries.entries.entries]]
   title = "Baked obstacle-based audio occlusion with grid generation, acoustic materials, and scene previews."
 
