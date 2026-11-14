@@ -1,5 +1,5 @@
 
 # Furkan ASLAN 
-## Game Developer & Game Engine Architecture Enthusiast
+## Software Developer, Game Engine Architecture Enthusiast
 
 
